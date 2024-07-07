@@ -1,4 +1,5 @@
 import { NestFactory } from '@nestjs/core';
+
 import { WalletModule } from './wallet.module';
 
 async function bootstrap() {
